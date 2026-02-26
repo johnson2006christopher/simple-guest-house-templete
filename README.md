@@ -51,4 +51,4 @@ This project was meticulously designed and developed by **Johnson Christopher**.
 
 ---
 
-&copy; 2024 Johnson Christopher. All rights reserved.
+&copy; 2026 Johnson Christopher. All rights reserved.
